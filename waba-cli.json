@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jjuanrivvera/waba-cli/releases/download/v0.1.0/waba-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "waba.exe"
+            ],
+            "hash": "db854b346717d428b8fb4334248eaf70bc9ca8fce1e0b1a6117052b960ea5f3c"
+        }
+    },
+    "homepage": "https://github.com/jjuanrivvera/waba-cli",
+    "license": "MIT",
+    "description": "WhatsApp Cloud API from the command line"
+}
