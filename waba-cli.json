@@ -1,12 +1,12 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/waba-cli/releases/download/v0.2.5/waba-cli_0.2.5_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/waba-cli/releases/download/v0.2.6/waba-cli_0.2.6_windows_amd64.zip",
             "bin": [
                 "waba.exe"
             ],
-            "hash": "7dee14729fbc5658d14590ec202f6b65a652bbbc789ef45c8eb6c313f821869e"
+            "hash": "32d6bd5be7af932548a3347abb88861fe0612f81d1dc46f66ffb8242eb8ba414"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/waba-cli",
